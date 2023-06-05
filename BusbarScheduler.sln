@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "busbarscheduler-ui", "BusbarScheduler\busbarscheduler-ui.esproj", "{B1E68A59-04B2-4A01-8224-FD45695D8F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBS-Api", "BBS-Api\BBS-Api.csproj", "{B1501FEC-F636-4B9A-BDED-A71BE479FCAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E68A59-04B2-4A01-8224-FD45695D8F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E68A59-04B2-4A01-8224-FD45695D8F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E68A59-04B2-4A01-8224-FD45695D8F09}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B1E68A59-04B2-4A01-8224-FD45695D8F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E68A59-04B2-4A01-8224-FD45695D8F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E68A59-04B2-4A01-8224-FD45695D8F09}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B1501FEC-F636-4B9A-BDED-A71BE479FCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1501FEC-F636-4B9A-BDED-A71BE479FCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1501FEC-F636-4B9A-BDED-A71BE479FCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1501FEC-F636-4B9A-BDED-A71BE479FCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB7BA770-76E9-4A91-B062-90DAF9446321}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwNtt/UOzDsqhhI8kSFTmkJLdJ+2HTEah1Ybo/SV6ZSlRRRDWHSsyZNeCHZqzZBqFsq+TCT0xTCZtPcAvydd9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChristopherSprague\\source\\repos\\BusbarScheduler\\BBS-Core\\BBS-Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChristopherSprague\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ChristopherSprague\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ChristopherSprague\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\bin\Debug\net6.0\BBS-Core.deps.json
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\bin\Debug\net6.0\BBS-Core.dll
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\bin\Debug\net6.0\BBS-Core.pdb
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\BBS-Core.csproj.AssemblyReference.cache
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\BBS-Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\BBS-Core.AssemblyInfoInputs.cache
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\BBS-Core.AssemblyInfo.cs
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\BBS-Core.csproj.CoreCompileInputs.cache
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\BBS-Core.dll
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\refint\BBS-Core.dll
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\BBS-Core.pdb
+C:\Users\ChristopherSprague\source\repos\BusbarScheduler\BBS-Core\obj\Debug\net6.0\ref\BBS-Core.dll
